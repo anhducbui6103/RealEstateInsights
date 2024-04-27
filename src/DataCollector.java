@@ -1,3 +1,4 @@
+import java.time.Duration;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonParser;
@@ -9,6 +10,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -32,7 +35,7 @@ public class DataCollector {
             // Data Collect
             JSONArray jsonArray = new JSONArray();
             int elementCount = 0;
-            while (elementCount < 100) {
+//            while (elementCount < 100) {
                 List<WebElement> collectionElements = driver.findElements(By.xpath("//*[@id=\"__next\"]/div/div[4]/div[1]/div[2]/main/div[1]/div[4]/div/div[1]/ul/div[*]"));
 
                 for (WebElement element : collectionElements) {
@@ -77,9 +80,11 @@ public class DataCollector {
                     elementCount++;
                 }
 //
-//                WebElement newPage = driver.findElement(By.xpath("//*[@id=\"__next\"]/div/div[4]/div[1]/div[2]/main/div[1]/div[5]/div/div/div[10]/button"));
-//                newPage.click();
-            }
+//                Duration timeout = Duration.ofSeconds(10); // 10 là thời gian chờ tối đa (giây)
+//                WebDriverWait wait = new WebDriverWait(driver, timeout);
+//                WebElement nextPageButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"__next\"]/div/div[4]/div[1]/div[2]/main/div[1]/div[5]/div/div/div[10]/button")));
+//                nextPageButton.click();
+//            }
             // Export JSON data
             Gson gson = new GsonBuilder().setPrettyPrinting().create();
             String formattedJson = gson.toJson(JsonParser.parseString(jsonArray.toString()));

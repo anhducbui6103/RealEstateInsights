@@ -1,177 +1,862 @@
 [
   {
-    "Total Cost": "650 triệu",
-    "Area": "50 m²",
-    "Title": "BÁN CHUNG CƯ TRÍCH SÀI - TÂY HỒ 48-55M2 ,FULL ĐỒ ,SỔ HỒNG LÂU DÀI",
-    "Cost Per M2": "13 tr/m²",
-    "Rooms": "2 PN"
+    "Total Cost": "16,1 tỷ",
+    "Area": "112 m²",
+    "Address": "Văn Giang, Hưng Yên",
+    "Title": "BÁN GẤP CĂN VILLA IN VILLA PHÂN KHU ĐẢO DỪA, MẶT TIỀN 8M, CHIẾT KHẤU VỀ Ở SỚM LÊN TỚI 25%, ĐƠN 8 TỶ",
+    "Cost Per M2": "143,75 tr/m²"
   },
   {
-    "Total Cost": "960 triệu",
-    "Area": "33 m²",
-    "Title": "Căn hộ 33m2 1 PN Bùi Xương Trạch Khương Đình Thanh Xuân HN",
-    "Cost Per M2": "29,09 tr/m²",
-    "Rooms": "1 PN"
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "96,3 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Title": "HOT DEAL CĂN HỘ PENINSULA ĐÀ NẴNG - TỔNG HỢP CÁC CĂN GIÁ TỐT NHẤT (1PN-2TỶ2) (2PN-3TỶ3) (3PN-6TỶ5)",
+    "Cost Per M2": "2"
   },
   {
-    "Total Cost": "890 triệu",
-    "Area": "54 m²",
-    "Title": "Cắt Lỗ - bán chung cư c1 Nguyễn Trãi - chính kinh ,sổ lâu dài ,ở luôn",
-    "Cost Per M2": "16,48 tr/m²",
-    "Rooms": "2 PN"
+    "Total Cost": "5,2 tỷ",
+    "Area": "161 m²",
+    "Address": "Tân Uyên, Bình Dương",
+    "Bedrooms": "4",
+    "Title": "BĐS DÒNG TIỀN - CĐT GIẢM SÂU THU HỒI VỐN - SỞ HỮU VILLA SÂN VƯỜN- GIÁ GỐC 10.4 TỶ, GIẢM CÒN 5.2 TỶ",
+    "Bathrooms": "5",
+    "Cost Per M2": "32,3 tr/m²"
   },
   {
-    "Total Cost": "3,999 tỷ",
-    "Area": "19 m²",
-    "Title": "Chính chủ cần bán nhà phố vip Vạn Bảo trung tâm quận Ba đình",
-    "Cost Per M2": "210,47 tr/m²",
-    "Rooms": "3 PN"
+    "Total Cost": "22 tỷ",
+    "Area": "200 m²",
+    "Address": "Quận 9, Hồ Chí Minh",
+    "Bedrooms": "4",
+    "Title": "BIỆT THỰ - LIỀN KỀ VINHOMES GRAND PARK QUẬN 9 GIÁ TỐT NHẤT GIẢM GIÁ 10-20% LH 0769 868 ***",
+    "Bathrooms": "4",
+    "Cost Per M2": "110 tr/m²"
   },
   {
-    "Total Cost": "2 tỷ",
-    "Area": "59 m²",
-    "Title": "60M2 Ô TÔ ĐỖ CỬA , SÂN TRƯỚC SAU ,NGAY TRUNG TÂM ,CHỈ HƠN 2TY",
-    "Cost Per M2": "33,9 tr/m²",
-    "Rooms": "3 PN"
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "90 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "MỞ BÁN SHOP THƯƠNG MẠI F-ZONE4 TỪ 3TỶ/LÔ, DIỆN TÍCH TỪ 33-210M, KINH DOANH 24/24, TT 30% NHẬN SHOP",
+    "Cost Per M2": "1"
   },
   {
-    "Total Cost": "2,95 tỷ",
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "CENTANA BLOCK A CHÍNH THỨC ĐƯỢC CẤP SỔ, SỞ HỮU NHANH CĂN HỘ GIÁ TỐT NGAY HIỆN TẠI GIÁ 1TỶ8",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "101 m²",
+    "Address": "Long Biên, Hà Nội",
+    "Bedrooms": "3",
+    "Title": "ĐỘC QUYỀN QUỸ CĂN ĐẸP CC KHAI SƠN CITY TRỰC TIẾP CĐT, CK 12,5%, QUÀ TẶNG TÂN GIA 350TR, LS0% 18TH",
+    "Bathrooms": "2",
+    "Cost Per M2": "51,48 tr/m²"
+  },
+  {
+    "Total Cost": "8 tỷ",
     "Area": "80 m²",
-    "Title": "Quá ngon! Bán nhà tập thể Đồng Xa, lô góc 3 thoáng, oto, tầng 2, 80m2",
-    "Cost Per M2": "36,88 tr/m²",
-    "Rooms": "3 PN"
+    "Address": "Quận 1, Hồ Chí Minh",
+    "Bedrooms": "2",
+    "Title": "BÁN CĂN HỘ VINHOMES GOLDEN RIVER BA SON 1, 2, 3, 4 PN GIÁ TỐT NHẤT CHỈ TỪ 5,5 TỶ LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "100 tr/m²"
   },
   {
-    "Total Cost": "18 tỷ",
-    "Area": "52 m²",
-    "Title": "Bán nhà Đỗ Quang - 52m2, 7 tầng, mặt tiền 4.5m, giá 18 tỷ, thông sàn",
-    "Cost Per M2": "346,15 tr/m²",
-    "Rooms": "4 PN"
+    "Total Cost": "4,6 tỷ",
+    "Area": "58 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "LIÊN HỆ NGUYÊN LỘC ĐỂ CÓ TẤT CẢ CÁC CĂN ĐANG BÁN TẠI FELIZ EN VISTA VÀ KHU VỰC LÂN CẬN, 0936 666 ***",
+    "Bathrooms": "1",
+    "Cost Per M2": "79,31 tr/m²"
   },
   {
-    "Total Cost": "3,3 tỷ",
-    "Area": "57 m²",
-    "Title": "Căn hộ A6A Nam Trung Yên, Dt 57m2, 2 phong ngủ, 2vs",
-    "Cost Per M2": "57,89 tr/m²",
-    "Rooms": "2 PN"
+    "Total Cost": "2,05 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU, 1-3PN VIEW ĐẸP, GIÁ RẺ, CẮT LỖ TẠI VINHOMES OCEANPARK, MIỄN PHÍ MG, HT VAY LÊN TỚI 70%",
+    "Bathrooms": "1",
+    "Cost Per M2": "34,75 tr/m²"
   },
   {
-    "Total Cost": "1,29 tỷ",
-    "Area": "",
-    "Title": "ĐẤT ĐỖ XÁ, THƯỜNG TÍN giá rẻ 1tỷ290tr",
-    "Cost Per M2": "16,54 tr/m²",
-    "Rooms": ""
+    "Total Cost": "16 tỷ",
+    "Area": "120 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "6",
+    "Title": "SUN GROUP BÁN SHOPHOUSE SÔNG HÀN XÂY DỰNG 3-5 TẦNG, SỞ HỮU LÂU DÀI, GĐ1, CK 16%, VỐN CHỈ TỪ 5,4 TỶ",
+    "Bathrooms": "8",
+    "Cost Per M2": "133,33 tr/m²"
   },
   {
-    "Total Cost": "4,2 tỷ",
-    "Area": "34 m²",
-    "Title": "Bán nhà Trần Khát Trân ngõ nông, sát phố 34 m2*5 T giá 4.2 tỷ",
-    "Cost Per M2": "123,53 tr/m²",
-    "Rooms": "3 PN"
+    "Total Cost": "16,2 tỷ",
+    "Area": "108 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "5",
+    "Title": "SHOPHOUSE ĐƯỜNG TRẦN HƯNG ĐẠO, BIỆT THỰ VEN SÔNG HÀN CHÍNH THỨC NHẬN BOOKING CÓ THÊM 1% CHIẾT KHẤU",
+    "Bathrooms": "6",
+    "Cost Per M2": "150 tr/m²"
   },
   {
-    "Total Cost": "4,05 tỷ",
-    "Area": "38 m²",
-    "Title": "Bán nhà Nam Dư, Lĩnh Nam, Hoàng Mai ,nhà thoáng 38m 4 ngủ giá 4,05 tỷ",
-    "Cost Per M2": "106,58 tr/m²",
-    "Rooms": "4 PN"
-  },
-  {
-    "Total Cost": "14,95 tỷ",
+    "Total Cost": "Giá thỏa thuận",
     "Area": "45 m²",
-    "Title": "CHÍNH CHỦ CẦN BÁN NHÀ.CÙ CHÍNH LAN THANH XUÂN.OTO VÀO NHÀ",
-    "Cost Per M2": "332,22 tr/m²",
-    "Rooms": "4 PN"
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "QUỸ CĂN NGOẠI GIAO ĐỘC QUYỀN LUMI, 2N 3.9 TỶ, 3N 6.9 TỶ, CHIẾT KHẤU 10%, QUÀ TẶNG 200TR, GIÁ GỐC",
+    "Cost Per M2": "1"
   },
   {
     "Total Cost": "3,2 tỷ",
+    "Area": "55 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "1",
+    "Title": "05 XUẤT NGOẠI GIAO ĐỘC QUYỀN GIÁ TỐT TỪ CĐT SUN GROUP TRONG THÁNG 7/2024",
+    "Bathrooms": "1",
+    "Cost Per M2": "58,18 tr/m²"
+  },
+  {
+    "Total Cost": "14,1 tỷ",
+    "Area": "365 m²",
+    "Address": "Thanh Thủy, Phú Thọ",
+    "Bedrooms": "5",
+    "Title": "TRỰC TIẾP CĐT - BIỆT THỰ VILLA ONSEN VƯỜN VUA - KHOÁNG NÓNG TẬN NHÀ. BÀN GIAO NGAY. HỖ TRỢ 0% 24 TH",
+    "Bathrooms": "6",
+    "Cost Per M2": "38,63 tr/m²"
+  },
+  {
+    "Total Cost": "4,3 tỷ",
+    "Area": "62 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "CHỦ NHÀ BÁN RẺ CĂN 2PN2 + 62M MASTERI LẤY TIỀN TRẢ NGÂN HÀNG GIÁ TỐT 4,2TỶ. LH 0888 798 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "69,36 tr/m²"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "SAU NHIỀU NĂM CHỜ ĐỢI TOÀ A CENTNANA CHÍNH THỨC ĐƯỢC NHẬN SỔ - CƠ HỘI SỞ HỮU CĂN 1PN DUY NHẤT 1TỶ85",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "1,97 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU-1N-2N-3N CẮT LỖ VINHOMES OCEAN PARK CẬP NHẬT GIÁ TỐT NHẤT LIÊN TỤC",
+    "Bathrooms": "1",
+    "Cost Per M2": "33,39 tr/m²"
+  },
+  {
+    "Total Cost": "9,3 tỷ",
+    "Area": "120 m²",
+    "Address": "Bình Thạnh, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "BÁN CĂN HỘ VINHOMES CENTRAL PARK \u0026 LANDMARK 81 GIÁ TỐT NHẤT 1 2 3 4 PN PENTHOUSE. LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "77,5 tr/m²"
+  },
+  {
+    "Total Cost": "23 tỷ",
+    "Area": "120 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "CĂN HỘ NÀO ĐANG HOT NHẤT TẠI THE OPERA THỦ THIÊM? GỌI EM ĐỂ NHẬN BẢNG GIÁ BÁN CẬP NHẬT MỚI NHẤT",
+    "Bathrooms": "2",
+    "Cost Per M2": "191,67 tr/m²"
+  },
+  {
+    "Total Cost": "16,1 tỷ",
+    "Area": "112 m²",
+    "Address": "Văn Giang, Hưng Yên",
+    "Title": "BÁN GẤP CĂN VILLA IN VILLA PHÂN KHU ĐẢO DỪA, MẶT TIỀN 8M, CHIẾT KHẤU VỀ Ở SỚM LÊN TỚI 25%, ĐƠN 8 TỶ",
+    "Cost Per M2": "143,75 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "96,3 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Title": "HOT DEAL CĂN HỘ PENINSULA ĐÀ NẴNG - TỔNG HỢP CÁC CĂN GIÁ TỐT NHẤT (1PN-2TỶ2) (2PN-3TỶ3) (3PN-6TỶ5)",
+    "Cost Per M2": "2"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "161 m²",
+    "Address": "Tân Uyên, Bình Dương",
+    "Bedrooms": "4",
+    "Title": "BĐS DÒNG TIỀN - CĐT GIẢM SÂU THU HỒI VỐN - SỞ HỮU VILLA SÂN VƯỜN- GIÁ GỐC 10.4 TỶ, GIẢM CÒN 5.2 TỶ",
+    "Bathrooms": "5",
+    "Cost Per M2": "32,3 tr/m²"
+  },
+  {
+    "Total Cost": "22 tỷ",
+    "Area": "200 m²",
+    "Address": "Quận 9, Hồ Chí Minh",
+    "Bedrooms": "4",
+    "Title": "BIỆT THỰ - LIỀN KỀ VINHOMES GRAND PARK QUẬN 9 GIÁ TỐT NHẤT GIẢM GIÁ 10-20% LH 0769 868 ***",
+    "Bathrooms": "4",
+    "Cost Per M2": "110 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "90 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "MỞ BÁN SHOP THƯƠNG MẠI F-ZONE4 TỪ 3TỶ/LÔ, DIỆN TÍCH TỪ 33-210M, KINH DOANH 24/24, TT 30% NHẬN SHOP",
+    "Cost Per M2": "1"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "CENTANA BLOCK A CHÍNH THỨC ĐƯỢC CẤP SỔ, SỞ HỮU NHANH CĂN HỘ GIÁ TỐT NGAY HIỆN TẠI GIÁ 1TỶ8",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "101 m²",
+    "Address": "Long Biên, Hà Nội",
+    "Bedrooms": "3",
+    "Title": "ĐỘC QUYỀN QUỸ CĂN ĐẸP CC KHAI SƠN CITY TRỰC TIẾP CĐT, CK 12,5%, QUÀ TẶNG TÂN GIA 350TR, LS0% 18TH",
+    "Bathrooms": "2",
+    "Cost Per M2": "51,48 tr/m²"
+  },
+  {
+    "Total Cost": "8 tỷ",
+    "Area": "80 m²",
+    "Address": "Quận 1, Hồ Chí Minh",
+    "Bedrooms": "2",
+    "Title": "BÁN CĂN HỘ VINHOMES GOLDEN RIVER BA SON 1, 2, 3, 4 PN GIÁ TỐT NHẤT CHỈ TỪ 5,5 TỶ LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "100 tr/m²"
+  },
+  {
+    "Total Cost": "4,6 tỷ",
+    "Area": "58 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "LIÊN HỆ NGUYÊN LỘC ĐỂ CÓ TẤT CẢ CÁC CĂN ĐANG BÁN TẠI FELIZ EN VISTA VÀ KHU VỰC LÂN CẬN, 0936 666 ***",
+    "Bathrooms": "1",
+    "Cost Per M2": "79,31 tr/m²"
+  },
+  {
+    "Total Cost": "2,05 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU, 1-3PN VIEW ĐẸP, GIÁ RẺ, CẮT LỖ TẠI VINHOMES OCEANPARK, MIỄN PHÍ MG, HT VAY LÊN TỚI 70%",
+    "Bathrooms": "1",
+    "Cost Per M2": "34,75 tr/m²"
+  },
+  {
+    "Total Cost": "16 tỷ",
+    "Area": "120 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "6",
+    "Title": "SUN GROUP BÁN SHOPHOUSE SÔNG HÀN XÂY DỰNG 3-5 TẦNG, SỞ HỮU LÂU DÀI, GĐ1, CK 16%, VỐN CHỈ TỪ 5,4 TỶ",
+    "Bathrooms": "8",
+    "Cost Per M2": "133,33 tr/m²"
+  },
+  {
+    "Total Cost": "16,2 tỷ",
+    "Area": "108 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "5",
+    "Title": "SHOPHOUSE ĐƯỜNG TRẦN HƯNG ĐẠO, BIỆT THỰ VEN SÔNG HÀN CHÍNH THỨC NHẬN BOOKING CÓ THÊM 1% CHIẾT KHẤU",
+    "Bathrooms": "6",
+    "Cost Per M2": "150 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
     "Area": "45 m²",
-    "Title": "Bán nhà Ngọc Hồi 54m Giá 3,2 tỷ",
-    "Cost Per M2": "71,11 tr/m²",
-    "Rooms": "1 PN"
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "QUỸ CĂN NGOẠI GIAO ĐỘC QUYỀN LUMI, 2N 3.9 TỶ, 3N 6.9 TỶ, CHIẾT KHẤU 10%, QUÀ TẶNG 200TR, GIÁ GỐC",
+    "Cost Per M2": "1"
   },
   {
-    "Total Cost": "2,4 tỷ",
+    "Total Cost": "3,2 tỷ",
+    "Area": "55 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "1",
+    "Title": "05 XUẤT NGOẠI GIAO ĐỘC QUYỀN GIÁ TỐT TỪ CĐT SUN GROUP TRONG THÁNG 7/2024",
+    "Bathrooms": "1",
+    "Cost Per M2": "58,18 tr/m²"
+  },
+  {
+    "Total Cost": "14,1 tỷ",
+    "Area": "365 m²",
+    "Address": "Thanh Thủy, Phú Thọ",
+    "Bedrooms": "5",
+    "Title": "TRỰC TIẾP CĐT - BIỆT THỰ VILLA ONSEN VƯỜN VUA - KHOÁNG NÓNG TẬN NHÀ. BÀN GIAO NGAY. HỖ TRỢ 0% 24 TH",
+    "Bathrooms": "6",
+    "Cost Per M2": "38,63 tr/m²"
+  },
+  {
+    "Total Cost": "4,3 tỷ",
+    "Area": "62 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "CHỦ NHÀ BÁN RẺ CĂN 2PN2 + 62M MASTERI LẤY TIỀN TRẢ NGÂN HÀNG GIÁ TỐT 4,2TỶ. LH 0888 798 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "69,36 tr/m²"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "SAU NHIỀU NĂM CHỜ ĐỢI TOÀ A CENTNANA CHÍNH THỨC ĐƯỢC NHẬN SỔ - CƠ HỘI SỞ HỮU CĂN 1PN DUY NHẤT 1TỶ85",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "1,97 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU-1N-2N-3N CẮT LỖ VINHOMES OCEAN PARK CẬP NHẬT GIÁ TỐT NHẤT LIÊN TỤC",
+    "Bathrooms": "1",
+    "Cost Per M2": "33,39 tr/m²"
+  },
+  {
+    "Total Cost": "9,3 tỷ",
+    "Area": "120 m²",
+    "Address": "Bình Thạnh, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "BÁN CĂN HỘ VINHOMES CENTRAL PARK \u0026 LANDMARK 81 GIÁ TỐT NHẤT 1 2 3 4 PN PENTHOUSE. LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "77,5 tr/m²"
+  },
+  {
+    "Total Cost": "23 tỷ",
+    "Area": "120 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "CĂN HỘ NÀO ĐANG HOT NHẤT TẠI THE OPERA THỦ THIÊM? GỌI EM ĐỂ NHẬN BẢNG GIÁ BÁN CẬP NHẬT MỚI NHẤT",
+    "Bathrooms": "2",
+    "Cost Per M2": "191,67 tr/m²"
+  },
+  {
+    "Total Cost": "16,1 tỷ",
+    "Area": "112 m²",
+    "Address": "Văn Giang, Hưng Yên",
+    "Title": "BÁN GẤP CĂN VILLA IN VILLA PHÂN KHU ĐẢO DỪA, MẶT TIỀN 8M, CHIẾT KHẤU VỀ Ở SỚM LÊN TỚI 25%, ĐƠN 8 TỶ",
+    "Cost Per M2": "143,75 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "96,3 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Title": "HOT DEAL CĂN HỘ PENINSULA ĐÀ NẴNG - TỔNG HỢP CÁC CĂN GIÁ TỐT NHẤT (1PN-2TỶ2) (2PN-3TỶ3) (3PN-6TỶ5)",
+    "Cost Per M2": "2"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "161 m²",
+    "Address": "Tân Uyên, Bình Dương",
+    "Bedrooms": "4",
+    "Title": "BĐS DÒNG TIỀN - CĐT GIẢM SÂU THU HỒI VỐN - SỞ HỮU VILLA SÂN VƯỜN- GIÁ GỐC 10.4 TỶ, GIẢM CÒN 5.2 TỶ",
+    "Bathrooms": "5",
+    "Cost Per M2": "32,3 tr/m²"
+  },
+  {
+    "Total Cost": "22 tỷ",
+    "Area": "200 m²",
+    "Address": "Quận 9, Hồ Chí Minh",
+    "Bedrooms": "4",
+    "Title": "BIỆT THỰ - LIỀN KỀ VINHOMES GRAND PARK QUẬN 9 GIÁ TỐT NHẤT GIẢM GIÁ 10-20% LH 0769 868 ***",
+    "Bathrooms": "4",
+    "Cost Per M2": "110 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "90 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "MỞ BÁN SHOP THƯƠNG MẠI F-ZONE4 TỪ 3TỶ/LÔ, DIỆN TÍCH TỪ 33-210M, KINH DOANH 24/24, TT 30% NHẬN SHOP",
+    "Cost Per M2": "1"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "CENTANA BLOCK A CHÍNH THỨC ĐƯỢC CẤP SỔ, SỞ HỮU NHANH CĂN HỘ GIÁ TỐT NGAY HIỆN TẠI GIÁ 1TỶ8",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "101 m²",
+    "Address": "Long Biên, Hà Nội",
+    "Bedrooms": "3",
+    "Title": "ĐỘC QUYỀN QUỸ CĂN ĐẸP CC KHAI SƠN CITY TRỰC TIẾP CĐT, CK 12,5%, QUÀ TẶNG TÂN GIA 350TR, LS0% 18TH",
+    "Bathrooms": "2",
+    "Cost Per M2": "51,48 tr/m²"
+  },
+  {
+    "Total Cost": "8 tỷ",
+    "Area": "80 m²",
+    "Address": "Quận 1, Hồ Chí Minh",
+    "Bedrooms": "2",
+    "Title": "BÁN CĂN HỘ VINHOMES GOLDEN RIVER BA SON 1, 2, 3, 4 PN GIÁ TỐT NHẤT CHỈ TỪ 5,5 TỶ LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "100 tr/m²"
+  },
+  {
+    "Total Cost": "4,6 tỷ",
+    "Area": "58 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "LIÊN HỆ NGUYÊN LỘC ĐỂ CÓ TẤT CẢ CÁC CĂN ĐANG BÁN TẠI FELIZ EN VISTA VÀ KHU VỰC LÂN CẬN, 0936 666 ***",
+    "Bathrooms": "1",
+    "Cost Per M2": "79,31 tr/m²"
+  },
+  {
+    "Total Cost": "2,05 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU, 1-3PN VIEW ĐẸP, GIÁ RẺ, CẮT LỖ TẠI VINHOMES OCEANPARK, MIỄN PHÍ MG, HT VAY LÊN TỚI 70%",
+    "Bathrooms": "1",
+    "Cost Per M2": "34,75 tr/m²"
+  },
+  {
+    "Total Cost": "16 tỷ",
+    "Area": "120 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "6",
+    "Title": "SUN GROUP BÁN SHOPHOUSE SÔNG HÀN XÂY DỰNG 3-5 TẦNG, SỞ HỮU LÂU DÀI, GĐ1, CK 16%, VỐN CHỈ TỪ 5,4 TỶ",
+    "Bathrooms": "8",
+    "Cost Per M2": "133,33 tr/m²"
+  },
+  {
+    "Total Cost": "16,2 tỷ",
+    "Area": "108 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "5",
+    "Title": "SHOPHOUSE ĐƯỜNG TRẦN HƯNG ĐẠO, BIỆT THỰ VEN SÔNG HÀN CHÍNH THỨC NHẬN BOOKING CÓ THÊM 1% CHIẾT KHẤU",
+    "Bathrooms": "6",
+    "Cost Per M2": "150 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
     "Area": "45 m²",
-    "Title": "Bàn nhà ngõ Lĩnh Nam gần chợ ngõ rộng",
-    "Cost Per M2": "53,33 tr/m²",
-    "Rooms": "4 PN"
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "QUỸ CĂN NGOẠI GIAO ĐỘC QUYỀN LUMI, 2N 3.9 TỶ, 3N 6.9 TỶ, CHIẾT KHẤU 10%, QUÀ TẶNG 200TR, GIÁ GỐC",
+    "Cost Per M2": "1"
   },
   {
-    "Total Cost": "3,65 tỷ",
-    "Area": "23 m²",
-    "Title": "Bán nhà Bạch Mai ngõ thông rộng, 5 tầng dt 27m2 nhỉnh 3 tỷ",
-    "Cost Per M2": "158,7 tr/m²",
-    "Rooms": "2 PN"
+    "Total Cost": "3,2 tỷ",
+    "Area": "55 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "1",
+    "Title": "05 XUẤT NGOẠI GIAO ĐỘC QUYỀN GIÁ TỐT TỪ CĐT SUN GROUP TRONG THÁNG 7/2024",
+    "Bathrooms": "1",
+    "Cost Per M2": "58,18 tr/m²"
   },
   {
-    "Total Cost": "8,38 tỷ",
-    "Area": "40 m²",
-    "Title": "cần bán căn nhà đẹp mới xây tại phố trạm 40m2 7 tầng oto đỗ cửa",
-    "Cost Per M2": "209,5 tr/m²",
-    "Rooms": "4 PN"
+    "Total Cost": "14,1 tỷ",
+    "Area": "365 m²",
+    "Address": "Thanh Thủy, Phú Thọ",
+    "Bedrooms": "5",
+    "Title": "TRỰC TIẾP CĐT - BIỆT THỰ VILLA ONSEN VƯỜN VUA - KHOÁNG NÓNG TẬN NHÀ. BÀN GIAO NGAY. HỖ TRỢ 0% 24 TH",
+    "Bathrooms": "6",
+    "Cost Per M2": "38,63 tr/m²"
   },
   {
-    "Total Cost": "",
-    "Area": "",
-    "Title": "Bán nhà măt phố Bach Mai trung tâm quận Hai Bà Trưng",
-    "Cost Per M2": "",
-    "Rooms": ""
+    "Total Cost": "4,3 tỷ",
+    "Area": "62 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "CHỦ NHÀ BÁN RẺ CĂN 2PN2 + 62M MASTERI LẤY TIỀN TRẢ NGÂN HÀNG GIÁ TỐT 4,2TỶ. LH 0888 798 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "69,36 tr/m²"
   },
   {
-    "Total Cost": "4,05 tỷ",
-    "Area": "38 m²",
-    "Title": "Bán nhà Lĩnh Nam,Hoàng Mai , Ngõ Nông rộng , 38m, 4 tầng giá 4,05 tỷ",
-    "Cost Per M2": "106,58 tr/m²",
-    "Rooms": "4 PN"
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "SAU NHIỀU NĂM CHỜ ĐỢI TOÀ A CENTNANA CHÍNH THỨC ĐƯỢC NHẬN SỔ - CƠ HỘI SỞ HỮU CĂN 1PN DUY NHẤT 1TỶ85",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
   },
   {
-    "Total Cost": "6,85 tỷ",
-    "Area": "41 m²",
-    "Title": "Bán nhà Lê Thanh Nghị 41m2x5 tầng. Mặt tiền 3.5m giá 6tỷ850",
-    "Cost Per M2": "167,07 tr/m²",
-    "Rooms": "3 PN"
+    "Total Cost": "1,97 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU-1N-2N-3N CẮT LỖ VINHOMES OCEAN PARK CẬP NHẬT GIÁ TỐT NHẤT LIÊN TỤC",
+    "Bathrooms": "1",
+    "Cost Per M2": "33,39 tr/m²"
   },
   {
-    "Total Cost": "4,05 tỷ",
-    "Area": "38 m²",
-    "Title": "Chính chủ bán nhà Nguyễn Khoái , Hoàng Mai ,38m, 4 ngủ giá 4,05 tỷ sổ",
-    "Cost Per M2": "106,58 tr/m²",
-    "Rooms": "4 PN"
+    "Total Cost": "9,3 tỷ",
+    "Area": "120 m²",
+    "Address": "Bình Thạnh, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "BÁN CĂN HỘ VINHOMES CENTRAL PARK \u0026 LANDMARK 81 GIÁ TỐT NHẤT 1 2 3 4 PN PENTHOUSE. LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "77,5 tr/m²"
   },
   {
-    "Total Cost": "5,35 tỷ",
-    "Area": "42 m²",
-    "Title": "Bán gấp nhà đẹp dân xây ngõ thông thoáng ,kinh doanh nhỏ ổ đỗ gần.",
-    "Cost Per M2": "127,38 tr/m²",
-    "Rooms": "4 PN"
+    "Total Cost": "23 tỷ",
+    "Area": "120 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "CĂN HỘ NÀO ĐANG HOT NHẤT TẠI THE OPERA THỦ THIÊM? GỌI EM ĐỂ NHẬN BẢNG GIÁ BÁN CẬP NHẬT MỚI NHẤT",
+    "Bathrooms": "2",
+    "Cost Per M2": "191,67 tr/m²"
   },
   {
-    "Total Cost": "2,15 tỷ",
-    "Area": "50 m²",
-    "Title": "Chính chủ bán nhà Tập thể Thanh xuân Bắc.",
-    "Cost Per M2": "43 tr/m²",
-    "Rooms": "3 PN"
+    "Total Cost": "16,1 tỷ",
+    "Area": "112 m²",
+    "Address": "Văn Giang, Hưng Yên",
+    "Title": "BÁN GẤP CĂN VILLA IN VILLA PHÂN KHU ĐẢO DỪA, MẶT TIỀN 8M, CHIẾT KHẤU VỀ Ở SỚM LÊN TỚI 25%, ĐƠN 8 TỶ",
+    "Cost Per M2": "143,75 tr/m²"
   },
   {
-    "Total Cost": "6,25 tỷ",
-    "Area": "35 m²",
-    "Title": "Bán Nhà TT Quận Cầu Giấy 35m2 6Tâng Ngõ Nông full Nội Thát Cơ Bản",
-    "Cost Per M2": "178,57 tr/m²",
-    "Rooms": "5 PN"
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "96,3 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Title": "HOT DEAL CĂN HỘ PENINSULA ĐÀ NẴNG - TỔNG HỢP CÁC CĂN GIÁ TỐT NHẤT (1PN-2TỶ2) (2PN-3TỶ3) (3PN-6TỶ5)",
+    "Cost Per M2": "2"
   },
   {
-    "Total Cost": "122 tỷ",
-    "Area": "275 m²",
-    "Title": "Bán nhà mặt phố Ngũ Xã - Trúc Bạch: 275m2, 4 tầng, mt: 14m, giá: 122tỷ",
-    "Cost Per M2": "443,64 tr/m²",
-    "Rooms": "8 PN"
+    "Total Cost": "5,2 tỷ",
+    "Area": "161 m²",
+    "Address": "Tân Uyên, Bình Dương",
+    "Bedrooms": "4",
+    "Title": "BĐS DÒNG TIỀN - CĐT GIẢM SÂU THU HỒI VỐN - SỞ HỮU VILLA SÂN VƯỜN- GIÁ GỐC 10.4 TỶ, GIẢM CÒN 5.2 TỶ",
+    "Bathrooms": "5",
+    "Cost Per M2": "32,3 tr/m²"
   },
   {
-    "Total Cost": "350 tỷ",
-    "Area": "535 m²",
-    "Title": "Biệt thự mặt phố Nguyễn Gia Thiều, dt 535m2, mt 20",
-    "Cost Per M2": "654,21 tr/m²",
-    "Rooms": "nhiều hơn 10 PN"
+    "Total Cost": "22 tỷ",
+    "Area": "200 m²",
+    "Address": "Quận 9, Hồ Chí Minh",
+    "Bedrooms": "4",
+    "Title": "BIỆT THỰ - LIỀN KỀ VINHOMES GRAND PARK QUẬN 9 GIÁ TỐT NHẤT GIẢM GIÁ 10-20% LH 0769 868 ***",
+    "Bathrooms": "4",
+    "Cost Per M2": "110 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "90 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "MỞ BÁN SHOP THƯƠNG MẠI F-ZONE4 TỪ 3TỶ/LÔ, DIỆN TÍCH TỪ 33-210M, KINH DOANH 24/24, TT 30% NHẬN SHOP",
+    "Cost Per M2": "1"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "CENTANA BLOCK A CHÍNH THỨC ĐƯỢC CẤP SỔ, SỞ HỮU NHANH CĂN HỘ GIÁ TỐT NGAY HIỆN TẠI GIÁ 1TỶ8",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "101 m²",
+    "Address": "Long Biên, Hà Nội",
+    "Bedrooms": "3",
+    "Title": "ĐỘC QUYỀN QUỸ CĂN ĐẸP CC KHAI SƠN CITY TRỰC TIẾP CĐT, CK 12,5%, QUÀ TẶNG TÂN GIA 350TR, LS0% 18TH",
+    "Bathrooms": "2",
+    "Cost Per M2": "51,48 tr/m²"
+  },
+  {
+    "Total Cost": "8 tỷ",
+    "Area": "80 m²",
+    "Address": "Quận 1, Hồ Chí Minh",
+    "Bedrooms": "2",
+    "Title": "BÁN CĂN HỘ VINHOMES GOLDEN RIVER BA SON 1, 2, 3, 4 PN GIÁ TỐT NHẤT CHỈ TỪ 5,5 TỶ LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "100 tr/m²"
+  },
+  {
+    "Total Cost": "4,6 tỷ",
+    "Area": "58 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "LIÊN HỆ NGUYÊN LỘC ĐỂ CÓ TẤT CẢ CÁC CĂN ĐANG BÁN TẠI FELIZ EN VISTA VÀ KHU VỰC LÂN CẬN, 0936 666 ***",
+    "Bathrooms": "1",
+    "Cost Per M2": "79,31 tr/m²"
+  },
+  {
+    "Total Cost": "2,05 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU, 1-3PN VIEW ĐẸP, GIÁ RẺ, CẮT LỖ TẠI VINHOMES OCEANPARK, MIỄN PHÍ MG, HT VAY LÊN TỚI 70%",
+    "Bathrooms": "1",
+    "Cost Per M2": "34,75 tr/m²"
+  },
+  {
+    "Total Cost": "16 tỷ",
+    "Area": "120 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "6",
+    "Title": "SUN GROUP BÁN SHOPHOUSE SÔNG HÀN XÂY DỰNG 3-5 TẦNG, SỞ HỮU LÂU DÀI, GĐ1, CK 16%, VỐN CHỈ TỪ 5,4 TỶ",
+    "Bathrooms": "8",
+    "Cost Per M2": "133,33 tr/m²"
+  },
+  {
+    "Total Cost": "16,2 tỷ",
+    "Area": "108 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "5",
+    "Title": "SHOPHOUSE ĐƯỜNG TRẦN HƯNG ĐẠO, BIỆT THỰ VEN SÔNG HÀN CHÍNH THỨC NHẬN BOOKING CÓ THÊM 1% CHIẾT KHẤU",
+    "Bathrooms": "6",
+    "Cost Per M2": "150 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "45 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "QUỸ CĂN NGOẠI GIAO ĐỘC QUYỀN LUMI, 2N 3.9 TỶ, 3N 6.9 TỶ, CHIẾT KHẤU 10%, QUÀ TẶNG 200TR, GIÁ GỐC",
+    "Cost Per M2": "1"
+  },
+  {
+    "Total Cost": "3,2 tỷ",
+    "Area": "55 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "1",
+    "Title": "05 XUẤT NGOẠI GIAO ĐỘC QUYỀN GIÁ TỐT TỪ CĐT SUN GROUP TRONG THÁNG 7/2024",
+    "Bathrooms": "1",
+    "Cost Per M2": "58,18 tr/m²"
+  },
+  {
+    "Total Cost": "14,1 tỷ",
+    "Area": "365 m²",
+    "Address": "Thanh Thủy, Phú Thọ",
+    "Bedrooms": "5",
+    "Title": "TRỰC TIẾP CĐT - BIỆT THỰ VILLA ONSEN VƯỜN VUA - KHOÁNG NÓNG TẬN NHÀ. BÀN GIAO NGAY. HỖ TRỢ 0% 24 TH",
+    "Bathrooms": "6",
+    "Cost Per M2": "38,63 tr/m²"
+  },
+  {
+    "Total Cost": "4,3 tỷ",
+    "Area": "62 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "CHỦ NHÀ BÁN RẺ CĂN 2PN2 + 62M MASTERI LẤY TIỀN TRẢ NGÂN HÀNG GIÁ TỐT 4,2TỶ. LH 0888 798 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "69,36 tr/m²"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "SAU NHIỀU NĂM CHỜ ĐỢI TOÀ A CENTNANA CHÍNH THỨC ĐƯỢC NHẬN SỔ - CƠ HỘI SỞ HỮU CĂN 1PN DUY NHẤT 1TỶ85",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "1,97 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU-1N-2N-3N CẮT LỖ VINHOMES OCEAN PARK CẬP NHẬT GIÁ TỐT NHẤT LIÊN TỤC",
+    "Bathrooms": "1",
+    "Cost Per M2": "33,39 tr/m²"
+  },
+  {
+    "Total Cost": "9,3 tỷ",
+    "Area": "120 m²",
+    "Address": "Bình Thạnh, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "BÁN CĂN HỘ VINHOMES CENTRAL PARK \u0026 LANDMARK 81 GIÁ TỐT NHẤT 1 2 3 4 PN PENTHOUSE. LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "77,5 tr/m²"
+  },
+  {
+    "Total Cost": "23 tỷ",
+    "Area": "120 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "CĂN HỘ NÀO ĐANG HOT NHẤT TẠI THE OPERA THỦ THIÊM? GỌI EM ĐỂ NHẬN BẢNG GIÁ BÁN CẬP NHẬT MỚI NHẤT",
+    "Bathrooms": "2",
+    "Cost Per M2": "191,67 tr/m²"
+  },
+  {
+    "Total Cost": "16,1 tỷ",
+    "Area": "112 m²",
+    "Address": "Văn Giang, Hưng Yên",
+    "Title": "BÁN GẤP CĂN VILLA IN VILLA PHÂN KHU ĐẢO DỪA, MẶT TIỀN 8M, CHIẾT KHẤU VỀ Ở SỚM LÊN TỚI 25%, ĐƠN 8 TỶ",
+    "Cost Per M2": "143,75 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "96,3 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Title": "HOT DEAL CĂN HỘ PENINSULA ĐÀ NẴNG - TỔNG HỢP CÁC CĂN GIÁ TỐT NHẤT (1PN-2TỶ2) (2PN-3TỶ3) (3PN-6TỶ5)",
+    "Cost Per M2": "2"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "161 m²",
+    "Address": "Tân Uyên, Bình Dương",
+    "Bedrooms": "4",
+    "Title": "BĐS DÒNG TIỀN - CĐT GIẢM SÂU THU HỒI VỐN - SỞ HỮU VILLA SÂN VƯỜN- GIÁ GỐC 10.4 TỶ, GIẢM CÒN 5.2 TỶ",
+    "Bathrooms": "5",
+    "Cost Per M2": "32,3 tr/m²"
+  },
+  {
+    "Total Cost": "22 tỷ",
+    "Area": "200 m²",
+    "Address": "Quận 9, Hồ Chí Minh",
+    "Bedrooms": "4",
+    "Title": "BIỆT THỰ - LIỀN KỀ VINHOMES GRAND PARK QUẬN 9 GIÁ TỐT NHẤT GIẢM GIÁ 10-20% LH 0769 868 ***",
+    "Bathrooms": "4",
+    "Cost Per M2": "110 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "90 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "MỞ BÁN SHOP THƯƠNG MẠI F-ZONE4 TỪ 3TỶ/LÔ, DIỆN TÍCH TỪ 33-210M, KINH DOANH 24/24, TT 30% NHẬN SHOP",
+    "Cost Per M2": "1"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "CENTANA BLOCK A CHÍNH THỨC ĐƯỢC CẤP SỔ, SỞ HỮU NHANH CĂN HỘ GIÁ TỐT NGAY HIỆN TẠI GIÁ 1TỶ8",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "5,2 tỷ",
+    "Area": "101 m²",
+    "Address": "Long Biên, Hà Nội",
+    "Bedrooms": "3",
+    "Title": "ĐỘC QUYỀN QUỸ CĂN ĐẸP CC KHAI SƠN CITY TRỰC TIẾP CĐT, CK 12,5%, QUÀ TẶNG TÂN GIA 350TR, LS0% 18TH",
+    "Bathrooms": "2",
+    "Cost Per M2": "51,48 tr/m²"
+  },
+  {
+    "Total Cost": "8 tỷ",
+    "Area": "80 m²",
+    "Address": "Quận 1, Hồ Chí Minh",
+    "Bedrooms": "2",
+    "Title": "BÁN CĂN HỘ VINHOMES GOLDEN RIVER BA SON 1, 2, 3, 4 PN GIÁ TỐT NHẤT CHỈ TỪ 5,5 TỶ LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "100 tr/m²"
+  },
+  {
+    "Total Cost": "4,6 tỷ",
+    "Area": "58 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "LIÊN HỆ NGUYÊN LỘC ĐỂ CÓ TẤT CẢ CÁC CĂN ĐANG BÁN TẠI FELIZ EN VISTA VÀ KHU VỰC LÂN CẬN, 0936 666 ***",
+    "Bathrooms": "1",
+    "Cost Per M2": "79,31 tr/m²"
+  },
+  {
+    "Total Cost": "2,05 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU, 1-3PN VIEW ĐẸP, GIÁ RẺ, CẮT LỖ TẠI VINHOMES OCEANPARK, MIỄN PHÍ MG, HT VAY LÊN TỚI 70%",
+    "Bathrooms": "1",
+    "Cost Per M2": "34,75 tr/m²"
+  },
+  {
+    "Total Cost": "16 tỷ",
+    "Area": "120 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "6",
+    "Title": "SUN GROUP BÁN SHOPHOUSE SÔNG HÀN XÂY DỰNG 3-5 TẦNG, SỞ HỮU LÂU DÀI, GĐ1, CK 16%, VỐN CHỈ TỪ 5,4 TỶ",
+    "Bathrooms": "8",
+    "Cost Per M2": "133,33 tr/m²"
+  },
+  {
+    "Total Cost": "16,2 tỷ",
+    "Area": "108 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "5",
+    "Title": "SHOPHOUSE ĐƯỜNG TRẦN HƯNG ĐẠO, BIỆT THỰ VEN SÔNG HÀN CHÍNH THỨC NHẬN BOOKING CÓ THÊM 1% CHIẾT KHẤU",
+    "Bathrooms": "6",
+    "Cost Per M2": "150 tr/m²"
+  },
+  {
+    "Total Cost": "Giá thỏa thuận",
+    "Area": "45 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Title": "QUỸ CĂN NGOẠI GIAO ĐỘC QUYỀN LUMI, 2N 3.9 TỶ, 3N 6.9 TỶ, CHIẾT KHẤU 10%, QUÀ TẶNG 200TR, GIÁ GỐC",
+    "Cost Per M2": "1"
+  },
+  {
+    "Total Cost": "3,2 tỷ",
+    "Area": "55 m²",
+    "Address": "Sơn Trà, Đà Nẵng",
+    "Bedrooms": "1",
+    "Title": "05 XUẤT NGOẠI GIAO ĐỘC QUYỀN GIÁ TỐT TỪ CĐT SUN GROUP TRONG THÁNG 7/2024",
+    "Bathrooms": "1",
+    "Cost Per M2": "58,18 tr/m²"
+  },
+  {
+    "Total Cost": "14,1 tỷ",
+    "Area": "365 m²",
+    "Address": "Thanh Thủy, Phú Thọ",
+    "Bedrooms": "5",
+    "Title": "TRỰC TIẾP CĐT - BIỆT THỰ VILLA ONSEN VƯỜN VUA - KHOÁNG NÓNG TẬN NHÀ. BÀN GIAO NGAY. HỖ TRỢ 0% 24 TH",
+    "Bathrooms": "6",
+    "Cost Per M2": "38,63 tr/m²"
+  },
+  {
+    "Total Cost": "4,3 tỷ",
+    "Area": "62 m²",
+    "Address": "Nam Từ Liêm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "CHỦ NHÀ BÁN RẺ CĂN 2PN2 + 62M MASTERI LẤY TIỀN TRẢ NGÂN HÀNG GIÁ TỐT 4,2TỶ. LH 0888 798 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "69,36 tr/m²"
+  },
+  {
+    "Total Cost": "1,8 tỷ",
+    "Area": "44 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "1",
+    "Title": "SAU NHIỀU NĂM CHỜ ĐỢI TOÀ A CENTNANA CHÍNH THỨC ĐƯỢC NHẬN SỔ - CƠ HỘI SỞ HỮU CĂN 1PN DUY NHẤT 1TỶ85",
+    "Bathrooms": "1",
+    "Cost Per M2": "40,91 tr/m²"
+  },
+  {
+    "Total Cost": "1,97 tỷ",
+    "Area": "59 m²",
+    "Address": "Gia Lâm, Hà Nội",
+    "Bedrooms": "2",
+    "Title": "QUỸ CĂN STU-1N-2N-3N CẮT LỖ VINHOMES OCEAN PARK CẬP NHẬT GIÁ TỐT NHẤT LIÊN TỤC",
+    "Bathrooms": "1",
+    "Cost Per M2": "33,39 tr/m²"
+  },
+  {
+    "Total Cost": "9,3 tỷ",
+    "Area": "120 m²",
+    "Address": "Bình Thạnh, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "BÁN CĂN HỘ VINHOMES CENTRAL PARK \u0026 LANDMARK 81 GIÁ TỐT NHẤT 1 2 3 4 PN PENTHOUSE. LH 0909 637 ***",
+    "Bathrooms": "2",
+    "Cost Per M2": "77,5 tr/m²"
+  },
+  {
+    "Total Cost": "23 tỷ",
+    "Area": "120 m²",
+    "Address": "Quận 2, Hồ Chí Minh",
+    "Bedrooms": "3",
+    "Title": "CĂN HỘ NÀO ĐANG HOT NHẤT TẠI THE OPERA THỦ THIÊM? GỌI EM ĐỂ NHẬN BẢNG GIÁ BÁN CẬP NHẬT MỚI NHẤT",
+    "Bathrooms": "2",
+    "Cost Per M2": "191,67 tr/m²"
   }
 ]

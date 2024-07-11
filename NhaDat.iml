@@ -9,6 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="gson-2.10.1" level="project" />
     <orderEntry type="library" name="json-simple-1.1.1" level="project" />
-    <orderEntry type="library" name="selenium-java-4.16" level="project" />
+    <orderEntry type="library" name="selenium-java-4.22" level="project" />
   </component>
 </module>

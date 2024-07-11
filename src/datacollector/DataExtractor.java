@@ -13,26 +13,16 @@ import java.time.Duration;
 import java.util.List;
 
 public class DataExtractor {
-    public JSONArray extractData(WebDriver driver, int targetCount) throws InterruptedException {
+    public JSONArray extractData(WebDriver driver) throws InterruptedException {
         JSONArray jsonArray = new JSONArray();
-        int elementCount = 0;
 
-        while (elementCount < targetCount) {
-            List<WebElement> collectionElements = driver.findElements(By.xpath("//*[@id=\"product-lists-web\"]/div[*]"));
+        List<WebElement> collectionElements = driver.findElements(By.xpath("//*[@id=\"product-lists-web\"]/div[*]"));
 
-            for (WebElement element : collectionElements) {
-                JSONObject nhaDatData = extractElementData(element);
-                if (nhaDatData != null) {
-                    jsonArray.add(nhaDatData);
-                    elementCount++;
-                }
+        for (WebElement element : collectionElements) {
+            JSONObject nhaDatData = extractElementData(element);
+            if (nhaDatData != null) {
+                jsonArray.add(nhaDatData);
             }
-
-//            // Click next page button to collect more information
-//            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-//            WebElement nextPageButton = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div[7]/div[2]/div[2]/div[7]/div/a[7]")));
-//            nextPageButton.click();
-//            Thread.sleep(5000); // Add a delay to allow the next page to load
         }
 
         return jsonArray;
@@ -47,7 +37,7 @@ public class DataExtractor {
             String address = element.findElement(By.xpath("./a/div[2]/div[1]/div[1]/div[2]/span[2]")).getText();
             String[] infoParts = info.split("\\n");
 
-            String cost = "Giá thỏa thuận";
+            String cost = "Giá thỏa thận";
             String area = "";
             String costPerM2 = "";
             String bedrooms = "";
